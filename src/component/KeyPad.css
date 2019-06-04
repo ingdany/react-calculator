@@ -1,0 +1,15 @@
+.div-full {
+    width: 100%;
+}
+
+.div-3Q {
+    width: 75%
+}
+
+.div-1Q {
+    width: 25%;
+}
+
+.div-margin {
+    margin: 1px;
+}
